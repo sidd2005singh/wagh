@@ -45,7 +45,7 @@ input {
 button {
     margin-top: 10px;
     padding: 10px;
-    background-color: #ff914c;
+    background-color: #75d9da;
     color: #fff;
     font-size: 16px;
     cursor: pointer;
@@ -55,11 +55,11 @@ button {
 }
 
 button:hover {
-    background-color: #d86d2a;
+    background-color: #66c2c9;
 }
 
 a {
-    color: #ff904c;
+    color: #5fdbdb;
     text-decoration: none;
 }
 
@@ -68,7 +68,7 @@ a:hover {
 }
 
 p {
-    color: #766f67;
+    color: #9e958b;
     text-align: center;
 }
 
